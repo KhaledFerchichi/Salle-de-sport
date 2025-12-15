@@ -1,0 +1,45 @@
+# Modern Modern GTK Style
+
+# Define a style for the windows with the background image
+style "window_style" {
+  bg_pixmap[NORMAL] = "bg.jpg"
+  fg[NORMAL] = "#FFFFFF"
+}
+
+# Define a style for buttons (Orange and flat-ish)
+style "button_style" {
+  bg[NORMAL] = "#E67E22"
+  bg[PRELIGHT] = "#D35400"
+  bg[ACTIVE] = "#A04000"
+  fg[NORMAL] = "#FFFFFF"
+  fg[PRELIGHT] = "#FFFFFF"
+  fg[ACTIVE] = "#ECF0F1"
+  engine "pixmap" {
+    image {
+      function = BOX
+      file = "coach.png" # Just partial usage or standard engine if pixmap engine missing
+      border = {2,2,2,2}
+      stretch = TRUE
+    }
+  }
+}
+
+# Define a style for labels (White text, transparent bg)
+style "label_style" {
+  fg[NORMAL] = "#FFFFFF"
+  bg[NORMAL] = "#2C3E50" # Fallback if transparency fails
+}
+
+# Define a style for entries (White bg, Black text)
+style "entry_style" {
+  base[NORMAL] = "#FFFFFF"
+  text[NORMAL] = "#000000"
+}
+
+# Apply styles
+class "GtkWindow" style "window_style"
+class "GtkButton" style "button_style"
+class "GtkLabel" style "label_style"
+class "GtkEntry" style "entry_style"
+class "GtkSpinButton" style "entry_style"
+class "GtkTreeView" style "entry_style"
