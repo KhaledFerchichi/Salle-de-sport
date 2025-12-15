@@ -1,0 +1,6 @@
+0|sssss
+0|bbbb
+0|ffff
+100;Dupont;Jean;aquagym;cardio;1.3
+100;Dupont;Jean;gym;Fitness;2.7
+100;Dupont;Jean;Libertygym;Taekwondo;5.0
