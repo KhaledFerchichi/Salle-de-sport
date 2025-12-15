@@ -1,0 +1,28 @@
+Login attempt: ID='1234', Pass='1234'
+Reading line: '1234;Membre;Test;Homme;test@test.com;1 mois;Foot;1;1;1990;1234'
+Parsed ID='1234', Pass='1234', Count=11
+Authentication SUCCESS
+Login attempt: ID='0000', Pass='0000'
+Reading line: '1234;Membre;Test;Homme;test@test.com;1 mois;Foot;1;1;1990;1234'
+Parsed ID='1234', Pass='1234', Count=11
+Authentication FAILED - No match found
+Login attempt: ID='0000', Pass='0000'
+Reading line: '1234;Membre;Test;Homme;test@test.com;1 mois;Foot;1;1;1990;1234'
+Parsed ID='1234', Pass='1234', Count=11
+Authentication FAILED - No match found
+Login attempt: ID='1234', Pass='1234'
+Reading line: '1234;Membre;Test;Homme;test@test.com;1 mois;Foot;1;1;1990;1234'
+Parsed ID='1234', Pass='1234', Count=11
+Authentication SUCCESS
+Login attempt: ID='1234', Pass='1234'
+Reading line: '1234;Membre;Test;Homme;test@test.com;1 mois;Foot;1;1;1990;1234'
+Parsed ID='1234', Pass='1234', Count=11
+Authentication SUCCESS
+Login attempt: ID='1234', Pass='1234'
+Reading line: '1234;Membre;Test;Homme;test@test.com;1 mois;Foot;1;1;1990;1234'
+Parsed ID='1234', Pass='1234', Count=11
+Authentication SUCCESS
+Login attempt: ID='1234', Pass='1234'
+Reading line: '1234;Membre;Test;Homme;test@test.com;1 mois;Foot;1;1;1990;1234'
+Parsed ID='1234', Pass='1234', Count=11
+Authentication SUCCESS

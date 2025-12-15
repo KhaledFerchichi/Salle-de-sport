@@ -1,0 +1,42 @@
+#!/bin/bash
+APP_DIR="/home/loua/Bureau/mon projet/interface"
+
+# Aller dans le dossier
+cd "$APP_DIR"
+
+# Nettoyer et compiler
+echo "🛠️  Compilation en cours..."
+if make clean && make; then
+    echo "✅ Compilation réussie"
+    
+    # Aller dans src
+    cd src
+    
+    # Créer les fichiers de données s'ils n'existent pas
+    for file in centres.txt entraineurs.txt entraineurs_inscriptions.txt; do
+        if [ ! -f "$file" ]; then
+            touch "$file"
+            echo "📄 Fichier créé: $file"
+        fi
+    done
+    
+    # Lancer l'application
+    echo "🚀 Lancement de l'application..."
+    echo "========================================"
+    echo "  APPLICATION DE GESTION DES CENTRES"
+    echo "========================================"
+    echo ""
+    echo "Instructions:"
+    echo "1. Sélectionnez votre profil"
+    echo "2. Authentification:"
+    echo "   - Admin: login=admin, password=admin123"
+    echo "   - Entraîneur: ID + mot de passe"
+    echo "3. Utilisez les boutons pour naviguer"
+    echo ""
+    echo "Appuyez sur Entrée pour continuer..."
+    read
+    ./projet
+else
+    echo "❌ Erreur lors de la compilation"
+    exit 1
+fi

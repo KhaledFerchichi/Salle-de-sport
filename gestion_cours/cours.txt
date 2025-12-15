@@ -1,0 +1,2 @@
+111;gym;urbain;6;1;2026;08:00;10:00;10;Avancé;mohamed;Enfant
+800;boxing;salle;10;12;2025;08:00;09:00;10;Avancé;aaaa;Enfant

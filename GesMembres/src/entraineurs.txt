@@ -1,0 +1,60 @@
+1858|Ben Amor|Meriem|femme|55776247|KickBoxing|meriem.benamor1858@esprit.tn|PWD1858|Centre A|Jeudi|16|19|1
+1851|Briki|Hamza|homme|95291046|Yoga|hamza.briki1851@esprit.tn|PWD1851|Centre D|Mardi|8|12|0
+7187|Briki|Mohamed|homme|80172721|KickBoxing|mohamed.briki7187@esprit.tn|PWD7187|Centre A|Lundi|10|12|0
+5781|Baccar|Leila|femme|82987396|Box|leila.baccar5781@esprit.tn|PWD5781|Centre E|Mercredi|16|20|0
+9636|Ferchichi|Ines|femme|88820426|Natation|ines.ferchichi9636@esprit.tn|PWD9636|ZenStudio|Samedi|17|19|1
+7874|Trabelsi|Nesrine|femme|44355808|KickBoxing|nesrine.trabelsi7874@esprit.tn|PWD7874|OceanPool|Samedi|12|14|1
+6521|Abidi|Meriem|femme|72030257|Judo|meriem.abidi6521@esprit.tn|PWD6521|FitnessPro|Lundi|11|16|0
+6956|Haddad|Rayen|homme|74454662|Karate|rayen.haddad6956@esprit.tn|PWD6956|ZenStudio|Samedi|8|11|1
+4824|Jaziri|Yasmine|femme|91991707|Musculation|yasmine.jaziri4824@esprit.tn|PWD4824|PowerGym|Dimanche|15|16|0
+3208|Ben Ali|Wafa|femme|54408371|Yoga|wafa.benali3208@esprit.tn|PWD3208|Centre E|Jeudi|14|15|0
+2026|Nasri|Meriem|femme|78143161|Box|meriem.nasri2026@esprit.tn|PWD2026|ZenStudio|Jeudi|9|14|1
+7623|Baccar|Bilel|homme|83419318|Box|bilel.baccar7623@esprit.tn|PWD7623|ZenStudio|Mercredi|14|17|0
+3685|Jaziri|Meriem|femme|69943707|Taekwondoo|meriem.jaziri3685@esprit.tn|PWD3685|Centre B|Dimanche|8|13|1
+9807|Zouari|Nour|femme|72245494|Yoga|nour.zouari9807@esprit.tn|PWD9807|Centre C|Vendredi|13|18|0
+3733|Trabelsi|Amira|femme|38255730|Musculation|amira.trabelsi3733@esprit.tn|PWD3733|Centre A|Mercredi|15|19|1
+8029|Kammoun|Sami|homme|63601476|Karate|sami.kammoun8029@esprit.tn|PWD8029|ZenStudio|Vendredi|10|13|1
+2717|Chakroun|Salma|femme|65644879|KickBoxing|salma.chakroun2717@esprit.tn|PWD2717|Centre E|Vendredi|11|13|1
+5335|Kammoun|Sarra|femme|30785979|Taekwondoo|sarra.kammoun5335@esprit.tn|PWD5335|ZenStudio|Mardi|8|10|1
+4784|Nasri|Bilel|homme|65787605|Karate|bilel.nasri4784@esprit.tn|PWD4784|ZenStudio|Mardi|16|18|1
+9066|Baccar|Ines|femme|97570353|Musculation|ines.baccar9066@esprit.tn|PWD9066|FitnessPro|Jeudi|11|16|0
+1098|Chakroun|Donia|femme|36417018|Box|donia.chakroun1098@esprit.tn|PWD1098|FitnessPro|Dimanche|15|18|1
+7894|Khelifi|Houda|femme|80270047|Yoga|houda.khelifi7894@esprit.tn|PWD7894|Centre D|Dimanche|10|14|0
+7795|Baccar|Nesrine|femme|43471818|Karate|nesrine.baccar7795@esprit.tn|PWD7795|PowerGym|Mercredi|9|12|0
+5349|Ferchichi|Sarra|femme|26926160|Judo|sarra.ferchichi5349@esprit.tn|PWD5349|PowerGym|Mercredi|9|13|1
+6320|Baccar|Aziz|homme|78951333|Judo|aziz.baccar6320@esprit.tn|PWD6320|FightClub|Mercredi|11|15|1
+5506|Saidi|Sarra|femme|36554329|Box|sarra.saidi5506@esprit.tn|PWD5506|PowerGym|Samedi|15|17|1
+9768|Karray|Seif|homme|38998755|Yoga|seif.karray9768@esprit.tn|PWD9768|FitnessPro|Mardi|17|18|1
+9260|Briki|Ines|femme|71875269|Taekwondoo|ines.briki9260@esprit.tn|PWD9260|Centre B|Dimanche|12|15|0
+7817|Trabelsi|Amira|femme|21740846|Musculation|amira.trabelsi7817@esprit.tn|PWD7817|Centre C|Mardi|8|11|1
+3719|Bensaid|Houssem|homme|82732231|Taekwondoo|houssem.bensaid3719@esprit.tn|PWD3719|Centre E|Vendredi|9|10|1
+9929|Kammoun|Wafa|femme|29096595|Natation|wafa.kammoun9929@esprit.tn|PWD9929|PowerGym|Dimanche|15|16|0
+8089|Mabrouk|Nesrine|femme|40649094|Musculation|nesrine.mabrouk8089@esprit.tn|PWD8089|Centre C|Mardi|11|13|0
+5006|Ferchichi|Youssef|homme|23471236|Box|youssef.ferchichi5006@esprit.tn|PWD5006|PowerGym|Samedi|13|18|0
+1686|Zouari|Kais|homme|44954827|Fitness|kais.zouari1686@esprit.tn|PWD1686|Centre B|Mercredi|13|15|1
+1426|Abidi|Nour|femme|50190127|Natation|nour.abidi1426@esprit.tn|PWD1426|Centre D|Vendredi|14|18|1
+4096|Bensaid|Meriem|femme|25716951|Fitness|meriem.bensaid4096@esprit.tn|PWD4096|Centre C|Jeudi|9|11|0
+8539|Abidi|Ines|femme|89910291|Yoga|ines.abidi8539@esprit.tn|PWD8539|Centre E|Mercredi|11|15|0
+2733|Nasri|Bilel|homme|47642288|Natation|bilel.nasri2733@esprit.tn|PWD2733|Centre C|Jeudi|10|14|0
+1088|Briki|Youssef|homme|24334038|KickBoxing|youssef.briki1088@esprit.tn|PWD1088|Centre C|Mardi|15|19|0
+7631|Jaziri|Ahmed|homme|35352696|Musculation|ahmed.jaziri7631@esprit.tn|PWD7631|Centre B|Mardi|8|11|1
+4381|Ben Amor|Mehdi|homme|65829630|KongFu|mehdi.benamor4381@esprit.tn|PWD4381|Centre B|Samedi|8|11|1
+7566|Trabelsi|Salma|femme|27778606|Karate|salma.trabelsi7566@esprit.tn|PWD7566|Centre B|Lundi|11|14|0
+3050|Baccar|Oussama|homme|76488487|Karate|oussama.baccar3050@esprit.tn|PWD3050|FitnessPro|Mercredi|10|14|0
+5741|Ben Ali|Donia|femme|67049001|Karate|donia.benali5741@esprit.tn|PWD5741|Centre A|Samedi|12|13|1
+4010|Ghorbel|Alya|femme|91678669|Taekwondoo|alya.ghorbel4010@esprit.tn|PWD4010|PowerGym|Samedi|9|11|0
+6870|Zouari|Leila|femme|94199007|Karate|leila.zouari6870@esprit.tn|PWD6870|Centre C|Jeudi|8|11|1
+1510|Mabrouk|Walid|homme|44696401|KickBoxing|walid.mabrouk1510@esprit.tn|PWD1510|Centre C|Samedi|17|18|1
+2987|Trabelsi|Rayen|homme|54205531|Yoga|rayen.trabelsi2987@esprit.tn|PWD2987|Centre C|Mercredi|14|15|1
+5260|Ghorbel|Oussama|homme|64263576|Fitness|oussama.ghorbel5260@esprit.tn|PWD5260|Centre E|Jeudi|11|12|0
+2856|Ferchichi|Aziz|homme|68153094|KongFu|aziz.ferchichi2856@esprit.tn|PWD2856|Centre C|Jeudi|8|12|0
+4932|Jaziri|Kais|homme|31254894|KongFu|kais.jaziri4932@esprit.tn|PWD4932|ZenStudio|Mercredi|14|16|1
+6007|Ghorbel|Mohamed|homme|96364165|Natation|mohamed.ghorbel6007@esprit.tn|PWD6007|Centre E|Vendredi|8|13|1
+4081|Letaief|Asma|femme|93471230|Yoga|asma.letaief4081@esprit.tn|PWD4081|Centre A|Samedi|10|13|1
+4277|Bensaid|Wafa|femme|26035340|Natation|wafa.bensaid4277@esprit.tn|PWD4277|Centre B|Dimanche|10|12|1
+1776|Abidi|Youssef|homme|97616828|Taekwondoo|youssef.abidi1776@esprit.tn|PWD1776|PowerGym|Vendredi|14|19|1
+2223|Abidi|Youssef|homme|25735355|Karate|youssef.abidi2223@esprit.tn|PWD2223|Centre E|Samedi|8|10|1
+1584|Ghorbel|Amine|homme|26812977|Natation|amine.ghorbel1584@esprit.tn|PWD1584|OceanPool|Vendredi|14|17|1
+3990|Ghorbel|Amira|femme|31718638|Box|amira.ghorbel3990@esprit.tn|PWD3990|Centre D|Mardi|10|15|1
+6977|Zouari|Rania|femme|75160052|KongFu|rania.zouari6977@esprit.tn|PWD6977|ZenStudio|Vendredi|16|17|0
+3360|Haddad|Aziz|homme|93984493|Musculation|aziz.haddad3360@esprit.tn|PWD3360|Centre A|Mercredi|12|16|1

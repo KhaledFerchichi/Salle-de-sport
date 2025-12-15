@@ -1,0 +1,378 @@
+make  all-recursive
+make[1]: Entering directory '/home/khaled/BackUp/GesMembres'
+Making all in src
+make[2]: Entering directory '/home/khaled/BackUp/GesMembres/src'
+gcc -DHAVE_CONFIG_H -I. -I.. -DPACKAGE_DATA_DIR=\""/usr/local/share"\" -DPACKAGE_LOCALE_DIR=\""/usr/local/share/locale"\" -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/gio-unix-2.0/ -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libpng16 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/pango-1.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/freetype2 -I/usr/include/libpng16    -g -O2 -MT main.o -MD -MP -MF .deps/main.Tpo -c -o main.o main.c
+mv -f .deps/main.Tpo .deps/main.Po
+gcc -DHAVE_CONFIG_H -I. -I.. -DPACKAGE_DATA_DIR=\""/usr/local/share"\" -DPACKAGE_LOCALE_DIR=\""/usr/local/share/locale"\" -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/gio-unix-2.0/ -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libpng16 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/pango-1.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/freetype2 -I/usr/include/libpng16    -g -O2 -MT support.o -MD -MP -MF .deps/support.Tpo -c -o support.o support.c
+mv -f .deps/support.Tpo .deps/support.Po
+gcc -DHAVE_CONFIG_H -I. -I.. -DPACKAGE_DATA_DIR=\""/usr/local/share"\" -DPACKAGE_LOCALE_DIR=\""/usr/local/share/locale"\" -pthread -I/usr/include/gtk-2.0 -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/include/gio-unix-2.0/ -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libpng16 -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/pango-1.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/freetype2 -I/usr/include/libpng16    -g -O2 -MT interface.o -MD -MP -MF .deps/interface.Tpo -c -o interface.o interface.c
+In file included from interface.c:18:0:
+callbacks.h:4:1: warning: data definition has no type or storage class
+ on_button_kh_adm_int33_clicked         (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:4:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_adm_int33_clicked’ [-Wimplicit-int]
+callbacks.h:6:1: warning: data definition has no type or storage class
+ on_button_kh_mem_int34_clicked         (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:6:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_mem_int34_clicked’ [-Wimplicit-int]
+callbacks.h:8:1: warning: data definition has no type or storage class
+ on_entry_kh_pass_login63_insert_text   (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:8:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_pass_login63_insert_text’ [-Wimplicit-int]
+callbacks.h:13:1: warning: data definition has no type or storage class
+ on_entry_kh_MDP_login64_insert_text    (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:13:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_MDP_login64_insert_text’ [-Wimplicit-int]
+callbacks.h:18:1: warning: data definition has no type or storage class
+ on_button_kh_annul_login35_clicked     (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:18:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_annul_login35_clicked’ [-Wimplicit-int]
+callbacks.h:20:1: warning: data definition has no type or storage class
+ on_button_kh_connecter_login36_clicked (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:20:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_connecter_login36_clicked’ [-Wimplicit-int]
+callbacks.h:22:1: warning: data definition has no type or storage class
+ on_button_kh_logout_int_adm37_clicked  (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:22:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_logout_int_adm37_clicked’ [-Wimplicit-int]
+callbacks.h:24:1: warning: data definition has no type or storage class
+ on_button_kh_aj_mem38_clicked          (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:24:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_aj_mem38_clicked’ [-Wimplicit-int]
+callbacks.h:26:1: warning: data definition has no type or storage class
+ on_button_kh_Mod_Mem39_clicked         (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:26:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_Mod_Mem39_clicked’ [-Wimplicit-int]
+callbacks.h:28:1: warning: data definition has no type or storage class
+ on_button_kh_del_mem40_clicked         (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:28:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_del_mem40_clicked’ [-Wimplicit-int]
+callbacks.h:30:1: warning: data definition has no type or storage class
+ on_button_kh_val_aj_mem35_clicked      (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:30:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_val_aj_mem35_clicked’ [-Wimplicit-int]
+callbacks.h:32:1: warning: data definition has no type or storage class
+ on_calendar_kh_2_day_selected          (GtkCalendar     *calendar,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:32:1: warning: type defaults to ‘int’ in declaration of ‘on_calendar_kh_2_day_selected’ [-Wimplicit-int]
+callbacks.h:34:1: warning: data definition has no type or storage class
+ on_button_kh_45_clicked                (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:34:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_45_clicked’ [-Wimplicit-int]
+callbacks.h:36:1: warning: data definition has no type or storage class
+ on_button_kh_1_clicked                 (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:36:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_1_clicked’ [-Wimplicit-int]
+callbacks.h:38:1: warning: data definition has no type or storage class
+ on_checkbutton_kh_human_login1_toggled (GtkToggleButton *togglebutton,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:38:1: warning: type defaults to ‘int’ in declaration of ‘on_checkbutton_kh_human_login1_toggled’ [-Wimplicit-int]
+callbacks.h:40:1: warning: data definition has no type or storage class
+ on_button_kh_2_clicked                 (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:40:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_2_clicked’ [-Wimplicit-int]
+callbacks.h:42:1: warning: data definition has no type or storage class
+ on_entry_kh_1_insert_text              (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:42:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_1_insert_text’ [-Wimplicit-int]
+callbacks.h:47:1: warning: data definition has no type or storage class
+ on_radiobutton_kh_all_adm23_group_changed
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:47:1: warning: type defaults to ‘int’ in declaration of ‘on_radiobutton_kh_all_adm23_group_changed’ [-Wimplicit-int]
+callbacks.h:50:1: warning: data definition has no type or storage class
+ on_radiobutton_kh_spo_adm24_group_changed
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:50:1: warning: type defaults to ‘int’ in declaration of ‘on_radiobutton_kh_spo_adm24_group_changed’ [-Wimplicit-int]
+callbacks.h:53:1: warning: data definition has no type or storage class
+ on_radiobutton_kh_par_ID_27_group_changed
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:53:1: warning: type defaults to ‘int’ in declaration of ‘on_radiobutton_kh_par_ID_27_group_changed’ [-Wimplicit-int]
+callbacks.h:56:1: warning: data definition has no type or storage class
+ on_button_kh_search_mem41_clicked      (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:56:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_search_mem41_clicked’ [-Wimplicit-int]
+callbacks.h:64:1: warning: data definition has no type or storage class
+ on_combobox_kh_cour_adm3_popup         (GtkComboBox     *combobox,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:64:1: warning: type defaults to ‘int’ in declaration of ‘on_combobox_kh_cour_adm3_popup’ [-Wimplicit-int]
+callbacks.h:66:1: warning: data definition has no type or storage class
+ on_entry_kh_nom_membre63_insert_text   (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:66:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_nom_membre63_insert_text’ [-Wimplicit-int]
+callbacks.h:71:1: warning: data definition has no type or storage class
+ on_entry_kh_prenm_mem64_insert_text    (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:71:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_prenm_mem64_insert_text’ [-Wimplicit-int]
+callbacks.h:76:1: warning: data definition has no type or storage class
+ on_spinbutton_kh_jr_date_mem32_insert_text
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:76:1: warning: type defaults to ‘int’ in declaration of ‘on_spinbutton_kh_jr_date_mem32_insert_text’ [-Wimplicit-int]
+callbacks.h:82:1: warning: data definition has no type or storage class
+ on_spinbutton_kh_mois_aj33_insert_text (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:82:1: warning: type defaults to ‘int’ in declaration of ‘on_spinbutton_kh_mois_aj33_insert_text’ [-Wimplicit-int]
+callbacks.h:87:1: warning: data definition has no type or storage class
+ on_spinbutton_34_insert_text           (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:87:1: warning: type defaults to ‘int’ in declaration of ‘on_spinbutton_34_insert_text’ [-Wimplicit-int]
+callbacks.h:92:1: warning: data definition has no type or storage class
+ on_entry_kh_id_aj_mem65_insert_text    (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:92:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_id_aj_mem65_insert_text’ [-Wimplicit-int]
+callbacks.h:97:1: warning: data definition has no type or storage class
+ on_entry_kh_pwd_aj_mem66_insert_text   (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:97:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_pwd_aj_mem66_insert_text’ [-Wimplicit-int]
+callbacks.h:102:1: warning: data definition has no type or storage class
+ on_entry_kh_mdp_aj_mem67_insert_text   (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:102:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_mdp_aj_mem67_insert_text’ [-Wimplicit-int]
+callbacks.h:107:1: warning: data definition has no type or storage class
+ on_entry_kh_num_mem68_insert_text      (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:107:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_num_mem68_insert_text’ [-Wimplicit-int]
+callbacks.h:112:1: warning: data definition has no type or storage class
+ on_entry_kh_mail_mem69_insert_text     (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:112:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_mail_mem69_insert_text’ [-Wimplicit-int]
+callbacks.h:117:1: warning: data definition has no type or storage class
+ on_entry_kh_haut_mem70_insert_text     (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:117:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_haut_mem70_insert_text’ [-Wimplicit-int]
+callbacks.h:122:1: warning: data definition has no type or storage class
+ on_entry_kh_poid_mem71_insert_text     (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:122:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_poid_mem71_insert_text’ [-Wimplicit-int]
+callbacks.h:127:1: warning: data definition has no type or storage class
+ on_spinbutton_kh_41_insert_text        (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:127:1: warning: type defaults to ‘int’ in declaration of ‘on_spinbutton_kh_41_insert_text’ [-Wimplicit-int]
+callbacks.h:132:1: warning: data definition has no type or storage class
+ on_radiobutton_kh_homme25_group_changed
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:132:1: warning: type defaults to ‘int’ in declaration of ‘on_radiobutton_kh_homme25_group_changed’ [-Wimplicit-int]
+callbacks.h:135:1: warning: data definition has no type or storage class
+ on_radiobutton_kh_femme_mem26_group_changed
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:135:1: warning: type defaults to ‘int’ in declaration of ‘on_radiobutton_kh_femme_mem26_group_changed’ [-Wimplicit-int]
+callbacks.h:138:1: warning: data definition has no type or storage class
+ on_combobox_kh_cour_mem4_popup         (GtkComboBox     *combobox,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:138:1: warning: type defaults to ‘int’ in declaration of ‘on_combobox_kh_cour_mem4_popup’ [-Wimplicit-int]
+callbacks.h:140:1: warning: data definition has no type or storage class
+ on_button_kh_annul_aj_mem36_clicked    (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:140:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_annul_aj_mem36_clicked’ [-Wimplicit-int]
+callbacks.h:142:1: warning: data definition has no type or storage class
+ on_entry_kh_nv_nom73_insert_text       (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:142:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_nv_nom73_insert_text’ [-Wimplicit-int]
+callbacks.h:147:1: warning: data definition has no type or storage class
+ on_entry_kh_nv_pre74_insert_text       (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:147:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_nv_pre74_insert_text’ [-Wimplicit-int]
+callbacks.h:152:1: warning: data definition has no type or storage class
+ on_spinbutton_kh_new_day35_insert_text (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:152:1: warning: type defaults to ‘int’ in declaration of ‘on_spinbutton_kh_new_day35_insert_text’ [-Wimplicit-int]
+callbacks.h:157:1: warning: data definition has no type or storage class
+ on_spinbutton_kh_new_month36_insert_text
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:157:1: warning: type defaults to ‘int’ in declaration of ‘on_spinbutton_kh_new_month36_insert_text’ [-Wimplicit-int]
+callbacks.h:163:1: warning: data definition has no type or storage class
+ on_spinbutton_kh_new_year37_insert_text
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:163:1: warning: type defaults to ‘int’ in declaration of ‘on_spinbutton_kh_new_year37_insert_text’ [-Wimplicit-int]
+callbacks.h:169:1: warning: data definition has no type or storage class
+ on_entry_kh_new_id75_insert_text       (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:169:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_new_id75_insert_text’ [-Wimplicit-int]
+callbacks.h:174:1: warning: data definition has no type or storage class
+ on_entry_kh_new_pwd76_insert_text      (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:174:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_new_pwd76_insert_text’ [-Wimplicit-int]
+callbacks.h:179:1: warning: data definition has no type or storage class
+ on_entry_kh_new_num78_insert_text      (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:179:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_new_num78_insert_text’ [-Wimplicit-int]
+callbacks.h:184:1: warning: data definition has no type or storage class
+ on_entry_new_mail_kh79_insert_text     (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:184:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_new_mail_kh79_insert_text’ [-Wimplicit-int]
+callbacks.h:189:1: warning: data definition has no type or storage class
+ on_entry_kh_new_haut80_insert_text     (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:189:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_new_haut80_insert_text’ [-Wimplicit-int]
+callbacks.h:194:1: warning: data definition has no type or storage class
+ on_entry_kh_new_pd81_insert_text       (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:194:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_new_pd81_insert_text’ [-Wimplicit-int]
+callbacks.h:199:1: warning: data definition has no type or storage class
+ on_entry_kh_repeat_pwd82_insert_text   (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:199:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_repeat_pwd82_insert_text’ [-Wimplicit-int]
+callbacks.h:204:1: warning: data definition has no type or storage class
+ on_spinbutton40_insert_text            (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:204:1: warning: type defaults to ‘int’ in declaration of ‘on_spinbutton40_insert_text’ [-Wimplicit-int]
+callbacks.h:209:1: warning: data definition has no type or storage class
+ on_radiobutton_hom_kh_new29_group_changed
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:209:1: warning: type defaults to ‘int’ in declaration of ‘on_radiobutton_hom_kh_new29_group_changed’ [-Wimplicit-int]
+callbacks.h:212:1: warning: data definition has no type or storage class
+ on_radiobutton_kh_new_fem30_group_changed
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:212:1: warning: type defaults to ‘int’ in declaration of ‘on_radiobutton_kh_new_fem30_group_changed’ [-Wimplicit-int]
+callbacks.h:215:1: warning: data definition has no type or storage class
+ on_combobox_kh_new_cour5_popup         (GtkComboBox     *combobox,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:215:1: warning: type defaults to ‘int’ in declaration of ‘on_combobox_kh_new_cour5_popup’ [-Wimplicit-int]
+callbacks.h:217:1: warning: data definition has no type or storage class
+ on_button_kh_40_clicked                (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:217:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_40_clicked’ [-Wimplicit-int]
+callbacks.h:219:1: warning: data definition has no type or storage class
+ on_entry_id_kh_sr83_insert_text        (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:219:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_id_kh_sr83_insert_text’ [-Wimplicit-int]
+callbacks.h:224:1: warning: data definition has no type or storage class
+ on_button_kh_3_clicked                 (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:224:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_3_clicked’ [-Wimplicit-int]
+callbacks.h:226:1: warning: data definition has no type or storage class
+ on_button_kh_41_clicked                (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:226:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_41_clicked’ [-Wimplicit-int]
+callbacks.h:228:1: warning: data definition has no type or storage class
+ on_entry_kh_84_insert_text             (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:228:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_84_insert_text’ [-Wimplicit-int]
+callbacks.h:233:1: warning: data definition has no type or storage class
+ on_button_kh_42_clicked                (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:233:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_42_clicked’ [-Wimplicit-int]
+callbacks.h:235:1: warning: data definition has no type or storage class
+ on_button_kh_4_clicked                 (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:235:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_4_clicked’ [-Wimplicit-int]
+callbacks.h:237:1: warning: data definition has no type or storage class
+ on_button_kh_44_clicked                (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:237:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_44_clicked’ [-Wimplicit-int]
+callbacks.h:244:1: warning: data definition has no type or storage class
+ on_entry_kh_93_insert_text             (GtkEditable     *editable,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:244:1: warning: type defaults to ‘int’ in declaration of ‘on_entry_kh_93_insert_text’ [-Wimplicit-int]
+callbacks.h:249:1: warning: data definition has no type or storage class
+ on_button_kh_5_clicked                 (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:249:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_5_clicked’ [-Wimplicit-int]
+callbacks.h:251:1: warning: data definition has no type or storage class
+ on_checkbutton_kh_1_toggled            (GtkToggleButton *togglebutton,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:251:1: warning: type defaults to ‘int’ in declaration of ‘on_checkbutton_kh_1_toggled’ [-Wimplicit-int]
+callbacks.h:253:1: warning: data definition has no type or storage class
+ on_checkbutton_kh_1_released           (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:253:1: warning: type defaults to ‘int’ in declaration of ‘on_checkbutton_kh_1_released’ [-Wimplicit-int]
+callbacks.h:255:1: warning: data definition has no type or storage class
+ on_checkbutton_kh_2_toggled            (GtkToggleButton *togglebutton,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:255:1: warning: type defaults to ‘int’ in declaration of ‘on_checkbutton_kh_2_toggled’ [-Wimplicit-int]
+callbacks.h:257:1: warning: data definition has no type or storage class
+ on_checkbutton_kh_2_released           (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:257:1: warning: type defaults to ‘int’ in declaration of ‘on_checkbutton_kh_2_released’ [-Wimplicit-int]
+callbacks.h:259:1: warning: data definition has no type or storage class
+ on_button_kh_46_clicked                (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:259:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_46_clicked’ [-Wimplicit-int]
+callbacks.h:261:1: warning: data definition has no type or storage class
+ on_button_kh_47_clicked                (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:261:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_47_clicked’ [-Wimplicit-int]
+callbacks.h:263:1: warning: data definition has no type or storage class
+ on_combobox_kh_6_popup                 (GtkComboBox     *combobox,
+ ^~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:263:1: warning: type defaults to ‘int’ in declaration of ‘on_combobox_kh_6_popup’ [-Wimplicit-int]
+callbacks.h:265:1: warning: data definition has no type or storage class
+ on_radiobutton_kh_34_group_changed     (GtkRadioButton  *radiobutton,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:265:1: warning: type defaults to ‘int’ in declaration of ‘on_radiobutton_kh_34_group_changed’ [-Wimplicit-int]
+callbacks.h:267:1: warning: data definition has no type or storage class
+ on_radiobutton_kh_33_group_changed     (GtkRadioButton  *radiobutton,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:267:1: warning: type defaults to ‘int’ in declaration of ‘on_radiobutton_kh_33_group_changed’ [-Wimplicit-int]
+callbacks.h:269:1: warning: data definition has no type or storage class
+ on_checkbutton_kh_3_toggled            (GtkToggleButton *togglebutton,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:269:1: warning: type defaults to ‘int’ in declaration of ‘on_checkbutton_kh_3_toggled’ [-Wimplicit-int]
+callbacks.h:271:1: warning: data definition has no type or storage class
+ on_checkbutton_kh_3_released           (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:271:1: warning: type defaults to ‘int’ in declaration of ‘on_checkbutton_kh_3_released’ [-Wimplicit-int]
+callbacks.h:278:1: warning: data definition has no type or storage class
+ on_button_kh_49_clicked                (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:278:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_49_clicked’ [-Wimplicit-int]
+callbacks.h:280:1: warning: data definition has no type or storage class
+ on_button_kh_48_clicked                (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:280:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_48_clicked’ [-Wimplicit-int]
+callbacks.h:282:1: warning: data definition has no type or storage class
+ on_radiobutton_kh_homme25_toggled      (GtkToggleButton *togglebutton,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:282:1: warning: type defaults to ‘int’ in declaration of ‘on_radiobutton_kh_homme25_toggled’ [-Wimplicit-int]
+callbacks.h:284:1: warning: data definition has no type or storage class
+ on_radiobutton_kh_femme_mem26_toggled  (GtkToggleButton *togglebutton,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:284:1: warning: type defaults to ‘int’ in declaration of ‘on_radiobutton_kh_femme_mem26_toggled’ [-Wimplicit-int]
+callbacks.h:286:1: warning: data definition has no type or storage class
+ on_radiobutton_hom_kh_new29_toggled    (GtkToggleButton *togglebutton,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:286:1: warning: type defaults to ‘int’ in declaration of ‘on_radiobutton_hom_kh_new29_toggled’ [-Wimplicit-int]
+callbacks.h:288:1: warning: data definition has no type or storage class
+ on_radiobutton_kh_new_fem30_toggled    (GtkToggleButton *togglebutton,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:288:1: warning: type defaults to ‘int’ in declaration of ‘on_radiobutton_kh_new_fem30_toggled’ [-Wimplicit-int]
+callbacks.h:290:6: error: conflicting types for ‘on_radiobutton_kh_homme25_toggled’
+ void on_radiobutton_kh_homme25_toggled (GtkToggleButton *togglebutton,       gpointer  user_data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:282:1: note: previous declaration of ‘on_radiobutton_kh_homme25_toggled’ was here
+ on_radiobutton_kh_homme25_toggled      (GtkToggleButton *togglebutton,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:292:6: error: conflicting types for ‘on_radiobutton_kh_femme_mem26_toggled’
+ void on_radiobutton_kh_femme_mem26_toggled (GtkToggleButton *togglebutton,       gpointer user_data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:284:1: note: previous declaration of ‘on_radiobutton_kh_femme_mem26_toggled’ was here
+ on_radiobutton_kh_femme_mem26_toggled  (GtkToggleButton *togglebutton,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:294:6: error: conflicting types for ‘on_radiobutton_hom_kh_new29_toggled’
+ void on_radiobutton_hom_kh_new29_toggled (GtkToggleButton *togglebutton, gpointer user_data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:286:1: note: previous declaration of ‘on_radiobutton_hom_kh_new29_toggled’ was here
+ on_radiobutton_hom_kh_new29_toggled    (GtkToggleButton *togglebutton,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:296:6: error: conflicting types for ‘on_radiobutton_kh_new_fem30_toggled’
+ void on_radiobutton_kh_new_fem30_toggled (GtkToggleButton *togglebutton, gpointer user_data);
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:288:1: note: previous declaration of ‘on_radiobutton_kh_new_fem30_toggled’ was here
+ on_radiobutton_kh_new_fem30_toggled    (GtkToggleButton *togglebutton,
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:297:1: warning: data definition has no type or storage class
+ on_button_kh_39_clicked                (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:297:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_39_clicked’ [-Wimplicit-int]
+callbacks.h:299:1: warning: data definition has no type or storage class
+ on_button_kh_43_clicked                (GtkButton       *button,
+ ^~~~~~~~~~~~~~~~~~~~~~~
+callbacks.h:299:1: warning: type defaults to ‘int’ in declaration of ‘on_button_kh_43_clicked’ [-Wimplicit-int]
+Makefile:384: recipe for target 'interface.o' failed
+make[2]: *** [interface.o] Error 1
+make[2]: Leaving directory '/home/khaled/BackUp/GesMembres/src'
+Makefile:381: recipe for target 'all-recursive' failed
+make[1]: *** [all-recursive] Error 1
+make[1]: Leaving directory '/home/khaled/BackUp/GesMembres'
+Makefile:322: recipe for target 'all' failed
+make: *** [all] Error 2
